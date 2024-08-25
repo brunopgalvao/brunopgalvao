@@ -52,7 +52,7 @@ jobs:
           # Identifiers that has been used for authoring commits
           commits_authoring: # optional, default is <default-value>
           # GitHub Personal Access Token
-          token: 
+          token: ${{ secrets.GITHUB_TOKEN }}
           # GitHub username
           user: # optional, default is <default-value>
           # GitHub repository
