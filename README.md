@@ -12,7 +12,6 @@ Blockchain engineer working on the **Polkadot SDK**: Rust runtimes and pallets, 
 
 ## Featured work
 
-- **[statement-dot](https://github.com/brunopgalvao/statement-dot)**: a humans-only social network built as a Polkadot product, using proof of personhood.
 - **Polkadot Cookbook recipes**: tested, runnable examples for common Polkadot SDK tasks.
   - [Parachain](https://github.com/brunopgalvao/recipe-parachain-example) · [Pallet](https://github.com/brunopgalvao/recipe-pallet-example) · [XCM](https://github.com/brunopgalvao/recipe-xcm-example) · [Transactions (PAPI)](https://github.com/brunopgalvao/recipe-transaction-example)
   - [Solidity contracts](https://github.com/brunopgalvao/recipe-contracts-example) · [Asset Hub precompiles](https://github.com/brunopgalvao/recipe-contracts-precompile-example) · [Zombienet networks](https://github.com/brunopgalvao/recipe-network-example) · [Paseo local network](https://github.com/brunopgalvao/recipe-paseo-local-network)
