@@ -1,6 +1,8 @@
 # Hi, I'm Bruno 👋
 
-Blockchain engineer working on the **Polkadot SDK**: Rust runtimes and pallets, Solidity on `pallet-revive`, XCM, and developer education.
+Engineer and technical founder. I'm building **[Satsuma](https://satsuma.one)**, an Ethereum-compatible Layer 1 I designed, launched and operate, along with its [explorer](https://explorer.satsuma.one) and tooling.
+
+Previously I co-founded [R0GUE](https://r0gue.io) (Pop CLI), worked in developer relations at PaperMoon and developer support at Parity, and taught full-stack engineering at General Assembly.
 
 [![Website](https://img.shields.io/badge/Website-bruno--galvao.vercel.app-2196F3?style=flat-square)](https://bruno-galvao.vercel.app)
 [![X](https://img.shields.io/badge/X-@brunopgalvao-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/brunopgalvao)
@@ -12,7 +14,6 @@ Blockchain engineer working on the **Polkadot SDK**: Rust runtimes and pallets, 
 
 ## Featured work
 
-- **[statement-dot](https://github.com/brunopgalvao/statement-dot)**: a humans-only social network built as a Polkadot product, using proof of personhood.
 - **Polkadot Cookbook recipes**: tested, runnable examples for common Polkadot SDK tasks.
   - [Parachain](https://github.com/brunopgalvao/recipe-parachain-example) · [Pallet](https://github.com/brunopgalvao/recipe-pallet-example) · [XCM](https://github.com/brunopgalvao/recipe-xcm-example) · [Transactions (PAPI)](https://github.com/brunopgalvao/recipe-transaction-example)
   - [Solidity contracts](https://github.com/brunopgalvao/recipe-contracts-example) · [Asset Hub precompiles](https://github.com/brunopgalvao/recipe-contracts-precompile-example) · [Zombienet networks](https://github.com/brunopgalvao/recipe-network-example) · [Paseo local network](https://github.com/brunopgalvao/recipe-paseo-local-network)
