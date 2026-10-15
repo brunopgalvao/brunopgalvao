@@ -1,24 +1,40 @@
-# Hi, I'm Bruno 👋
+# Bruno Galvao
 
-Engineer and technical founder. I'm building **[Satsuma](https://satsuma.one)**, an Ethereum-compatible Layer 1 I designed, launched and operate, along with its [explorer](https://explorer.satsuma.one) and tooling.
+**Engineer · Technical founder · Developer relations**
 
-Previously I co-founded [R0GUE](https://r0gue.io) (Pop CLI), worked in developer relations at PaperMoon and developer support at Parity, and taught full-stack engineering at General Assembly.
+<samp>
+<a href="https://bruno-galvao.vercel.app">resume</a> ·
+<a href="https://bruno-galvao.vercel.app/portfolio">portfolio</a> ·
+<a href="https://engineering.satsuma.one">engineering blog</a> ·
+<a href="https://www.linkedin.com/in/brunopgalvao">linkedin</a> ·
+<a href="mailto:brunopgalvao@gmail.com">email</a>
+</samp>
 
-[![Website](https://img.shields.io/badge/Website-bruno--galvao.vercel.app-2196F3?style=flat-square)](https://bruno-galvao.vercel.app)
-[![X](https://img.shields.io/badge/X-@brunopgalvao-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/brunopgalvao)
+I've shipped production software for 10+ years across TypeScript, Python, Rust and React, and spent the last 4+ building developer platforms and the education around them. I build with agentic coding tools every day, and I verify what ships: CI that runs every published artifact so nothing rots silently.
 
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Polkadot](https://img.shields.io/badge/-Polkadot-E6007A?style=flat-square&logo=polkadot&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+## Now
 
-## Featured work
+**Founder & architect of [Satsuma](https://satsuma.one)**: a permissioned, Ethereum-compatible Layer 1 with 2-second blocks, live on a multi-validator network.
 
-- **Polkadot Cookbook recipes**: tested, runnable examples for common Polkadot SDK tasks.
-  - [Parachain](https://github.com/brunopgalvao/recipe-parachain-example) · [Pallet](https://github.com/brunopgalvao/recipe-pallet-example) · [XCM](https://github.com/brunopgalvao/recipe-xcm-example) · [Transactions (PAPI)](https://github.com/brunopgalvao/recipe-transaction-example)
-  - [Solidity contracts](https://github.com/brunopgalvao/recipe-contracts-example) · [Asset Hub precompiles](https://github.com/brunopgalvao/recipe-contracts-precompile-example) · [Zombienet networks](https://github.com/brunopgalvao/recipe-network-example) · [Paseo local network](https://github.com/brunopgalvao/recipe-paseo-local-network)
-- **[nonfungible-adapter-tutorial](https://github.com/brunopgalvao/nonfungible-adapter-tutorial)**: cross-chain NFT transfers with the Polkadot SDK `NonFungibleAdapter`.
+- Built the stack around it: [block explorer](https://explorer.satsuma.one), network dashboard and eth-RPC tooling, so existing wallets, libraries and contracts work unmodified
+- Run operations end to end: validators, deployment, monitoring and uptime
+- Publish benchmarks, methodology and design rationale openly at [engineering.satsuma.one](https://engineering.satsuma.one)
 
-## Contributions
+## Selected work
 
-I contribute to [Polkadot SDK](https://github.com/paritytech/polkadot-sdk), [Pop CLI](https://github.com/r0gue-io/pop-cli) and the [Polkadot developer docs](https://github.com/polkadot-developers/polkadot-docs).
+- **[Polkadot Cookbook](https://github.com/polkadot-developers/polkadot-cookbook)**: creator and sole author (430+ commits). Tested, runnable recipes with a `dot` CLI for scaffolding and a harness that clones, builds and validates every recipe.
+- **[Pop CLI](https://github.com/r0gue-io/pop-cli)**: co-founded [R0GUE](https://r0gue.io), architected Pop Network and built Pop CLI in Rust, used by external teams in production. Wrote the proposals behind a Web3 Foundation grant and a $587K community-approved allocation.
+- **Developer education**: one of two engineers owning tutorials and reference implementations for a major developer platform at PaperMoon (58+ merged PRs); created the Release Analysis publication and became a top-5 all-time Polkadot Stack Exchange contributor at Parity.
+- **Teaching**: built General Assembly NYC's Software Engineering Immersive curriculum and taught dozens of 12-week cohorts.
+
+## Latest from the engineering blog
+
+<!-- BLOG-POST-LIST:START -->
+- [Experiment 002: Satsuma coordinates its work, runs what it builds, and judges the result](https://engineering.satsuma.one/experiments/satsuma-runs-what-it-builds/)
+- [Experiment 001: Satsuma gets a goal, builds what it needs, and trades on another chain](https://engineering.satsuma.one/experiments/satsuma-trades-on-tangerine/)
+- [The Same Bridge, the Parity Way — and the Bill](https://engineering.satsuma.one/research/the-same-bridge-the-parity-way/)
+- [ISMP Bridging with Satsuma](https://engineering.satsuma.one/research/two-chains-one-truth/)
+- [Launch Autopsy #2: Filecoin and the SAFT](https://engineering.satsuma.one/tokenomics/filecoin-saft/)
+<!-- BLOG-POST-LIST:END -->
+
+<sub>Rust · TypeScript · Python · Solidity · ink! · React · Node · Swift · Polkadot SDK · EVM · Docker · CI/CD</sub>
