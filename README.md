@@ -6,8 +6,7 @@
 <a href="https://bruno-galvao.vercel.app">resume</a> ·
 <a href="https://bruno-galvao.vercel.app/portfolio">portfolio</a> ·
 <a href="https://engineering.satsuma.one">engineering blog</a> ·
-<a href="https://www.linkedin.com/in/brunopgalvao">linkedin</a> ·
-<a href="mailto:brunopgalvao@gmail.com">email</a>
+<a href="https://www.linkedin.com/in/brunopgalvao">linkedin</a>
 </samp>
 
 I've shipped production software for 10+ years across TypeScript, Python, Rust and React, and spent the last 4+ building developer platforms and the education around them. I build with agentic coding tools every day, and I verify what ships: CI that runs every published artifact so nothing rots silently.
