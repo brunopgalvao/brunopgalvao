@@ -29,11 +29,11 @@ I've shipped production software for 10+ years across TypeScript, Python, Rust a
 ## Latest from the engineering blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Experiment 002: Satsuma coordinates its work, runs what it builds, and judges the result](https://engineering.satsuma.one/experiments/satsuma-runs-what-it-builds/)
-- [Experiment 001: Satsuma gets a goal, builds what it needs, and trades on another chain](https://engineering.satsuma.one/experiments/satsuma-trades-on-tangerine/)
+- [Satsuma owns what it builds, and fixes it without touching the money](https://engineering.satsuma.one/experiments/satsuma-owns-what-it-builds/)
+- [Satsuma coordinates its work, runs what it builds, and judges the result](https://engineering.satsuma.one/experiments/satsuma-runs-what-it-builds/)
+- [Satsuma gets a goal, builds what it needs, and trades on another chain](https://engineering.satsuma.one/experiments/satsuma-trades-on-tangerine/)
 - [The Same Bridge, the Parity Way — and the Bill](https://engineering.satsuma.one/research/the-same-bridge-the-parity-way/)
 - [ISMP Bridging with Satsuma](https://engineering.satsuma.one/research/two-chains-one-truth/)
-- [Launch Autopsy #2: Filecoin and the SAFT](https://engineering.satsuma.one/tokenomics/filecoin-saft/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub>Rust · TypeScript · Python · Solidity · ink! · React · Node · Swift · Polkadot SDK · EVM · Docker · CI/CD</sub>
